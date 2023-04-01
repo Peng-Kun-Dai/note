@@ -1,5 +1,5 @@
 ---
-description: 这是一本书
+description: 记录一些笔记
 ---
 
 # 前言
