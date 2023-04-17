@@ -15,4 +15,4 @@
 
 
 ***
-* [markdown语法](markdown语法.md)
+* [markdown语法](note/markdown语法.md)
